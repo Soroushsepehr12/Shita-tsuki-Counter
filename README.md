@@ -10,12 +10,9 @@ This is **Version 1 (V1)** of the project. Future versions will introduce new de
 
 # 🎥 Demo Video
 
-Add the YouTube demonstration link here:
+Click the image below to watch the Shita Tsuki Counter Mediapipe V1 demonstration:
 
-```
-YOUTUBE_VIDEO_LINK
-```
-
+[![Shita Tsuki Counter Demo](https://img.youtube.com/vi/DM-pAdnQciE/maxresdefault.jpg)](https://youtu.be/DM-pAdnQciE)
 ---
 
 # ✨ Features
